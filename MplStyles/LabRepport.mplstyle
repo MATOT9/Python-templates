@@ -1,5 +1,4 @@
 # Figure parameters
-figure.autolayout : True
 figure.figsize : 10, 5
 
 # On veut voir les ticks mineurs sur les deux axes, pointant vers l'intérieur
