@@ -33,4 +33,3 @@ legend.loc : best
 # Savefig parameters
 savefig.dpi : 2000
 savefig.format : pdf
-savefig.bbox : tight
