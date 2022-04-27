@@ -1,6 +1,9 @@
 # Figure parameters
+figure.figsize:     10, 5    # figure size in inches
+figure.subplot.left:   0.15     # the left side of the subplots of the figure
+figure.subplot.bottom: 0.15     # the bottom of the subplots of the figure
 
-# On veut voir les ticks mineurs sur les deux axes, pointant vers l'intérieur
+# Ticks parameters
 xtick.minor.visible : True
 xtick.direction : in
 xtick.major.size : 10
@@ -15,6 +18,9 @@ ytick.minor.size: 5
 ytick.minor.width: 0.5
 ytick.direction : in
 ytick.labelsize : large
+
+# Lines parameters
+lines.linewidth : 1.5
 
 # Le texte pour les axes est trop petit par défaut: on l'augmente
 # et on ajoute un peu de padding pour qu'il ne soit pas par-dessus le texte
